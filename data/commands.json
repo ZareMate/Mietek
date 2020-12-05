@@ -1,1 +1,46 @@
-[null,{"name":"DajPeta","permissions":"NONE","restriction":"1","_id":"WGzPI","actions":[{"name":"Clear Queue"},{"url":"resources/","seek":"0","volume":"100","passes":"1","bitrate":"","type":"0","name":"Play File"}]},{"name":"DajZiolo","permissions":"NONE","restriction":"1","_id":"nfBjB","actions":[{"name":"Clear Queue"},{"url":"resources/cocainum","seek":"0","volume":"100","passes":"1","bitrate":"","type":"0","name":"Play File"}]},{"name":"Gotowy","permissions":"NONE","restriction":"1","_id":"fKlFO","actions":[{"channel":"0","varName":"","name":"Join Voice Channel"}]}]
+[
+  null,
+  {
+    "name": "DajPeta",
+    "permissions": "NONE",
+    "restriction": "1",
+    "_id": "WGzPI",
+    "actions": [
+      { "name": "Clear Queue" },
+      {
+        "url": "resources/",
+        "seek": "0",
+        "volume": "100",
+        "passes": "1",
+        "bitrate": "",
+        "type": "0",
+        "name": "Play File"
+      }
+    ]
+  },
+  {
+    "name": "DajZiolo",
+    "permissions": "NONE",
+    "restriction": "1",
+    "_id": "nfBjB",
+    "actions": [
+      { "name": "Clear Queue" },
+      {
+        "url": "resources/cocainum",
+        "seek": "0",
+        "volume": "100",
+        "passes": "1",
+        "bitrate": "",
+        "type": "0",
+        "name": "Play File"
+      }
+    ]
+  },
+  {
+    "name": "Gotowy",
+    "permissions": "NONE",
+    "restriction": "1",
+    "_id": "fKlFO",
+    "actions": [{ "channel": "0", "varName": "", "name": "Join Voice Channel" }]
+  }
+]
